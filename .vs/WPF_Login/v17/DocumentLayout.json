@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "H:\\wpf\\WPF_Login\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\customtextboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\customtextboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\passwordhelpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\passwordhelpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,22 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\LoginVM.cs",
+              "RelativeDocumentMoniker": "WPF_Login\\LoginVM.cs",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\LoginVM.cs",
+              "RelativeToolTip": "WPF_Login\\LoginVM.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAFYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:09:44.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -42,26 +64,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomTextBoxStyles.xaml",
               "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomTextBoxStyles.xaml",
               "RelativeDocumentMoniker": "WPF_Login\\CustomTextBoxStyles.xaml",
               "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomTextBoxStyles.xaml",
               "RelativeToolTip": "WPF_Login\\CustomTextBoxStyles.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-28T03:24:19.624Z",
+              "WhenOpened": "2024-03-28T12:06:21.382Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WPF_Login\\MainWindow.xaml",
-              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
-              "RelativeToolTip": "WPF_Login\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-28T03:41:47.868Z"
             },
             {
               "$type": "Document",
@@ -71,32 +82,61 @@
               "RelativeDocumentMoniker": "WPF_Login\\CustomButton.cs",
               "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButton.cs",
               "RelativeToolTip": "WPF_Login\\CustomButton.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAwCUAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwBgAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T03:35:02.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomButtonStyles.xaml",
-              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButtonStyles.xaml",
-              "RelativeDocumentMoniker": "WPF_Login\\CustomButtonStyles.xaml",
-              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButtonStyles.xaml",
-              "RelativeToolTip": "WPF_Login\\CustomButtonStyles.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-28T03:27:14.843Z"
+              "WhenOpened": "2024-03-28T06:12:36.194Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_Login\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_Login\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T06:27:32.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Login\\MainWindow.xaml",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Login\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T05:46:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CustomTextBox.cs",
               "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomTextBox.cs",
               "RelativeDocumentMoniker": "WPF_Login\\CustomTextBox.cs",
               "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomTextBox.cs",
               "RelativeToolTip": "WPF_Login\\CustomTextBox.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBoAAAAlAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T03:23:39.747Z"
+              "WhenOpened": "2024-03-28T11:09:02.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHelpr.cs",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\PasswordHelpr.cs",
+              "RelativeDocumentMoniker": "WPF_Login\\PasswordHelpr.cs",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\PasswordHelpr.cs",
+              "RelativeToolTip": "WPF_Login\\PasswordHelpr.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAtwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T05:48:54.931Z",
+              "EditorCaption": ""
             }
           ]
         }

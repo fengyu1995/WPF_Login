@@ -57,6 +57,7 @@
     </ApplicationDefinition>
     <Compile Include="CustomButton.cs" />
     <Compile Include="CustomTextBox.cs" />
+    <Compile Include="PasswordHelpr.cs" />
     <Compile Include="RelayCommond.cs" />
     <Page Include="CustomButtonStyles.xaml">
       <SubType>Designer</SubType>

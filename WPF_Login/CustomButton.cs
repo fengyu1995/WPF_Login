@@ -11,7 +11,7 @@ namespace WPF_Login
 {
     public class CustomButton:Button 
     {
-        //依赖属性：使用时加载
+        //依赖属性：使用时加载(具备自动通知界面的能力的)
 
 
         public CornerRadius ButtonCornerRadius

@@ -9,7 +9,7 @@ using System.Windows.Input;
 
 namespace WPF_Login
 {
-    internal class LoginVM:INotifyPropertyChanged
+    internal class LoginVM: DependencyObject,INotifyPropertyChanged
     {
         private Window _main;
         public LoginVM(Window main)
@@ -31,27 +31,76 @@ namespace WPF_Login
         //		RaisePropertyyChanged("LoginM");
         //          }
         //}
+
+        //      public string UserName
+        //      {
+        //	get { return _LoginM.UserName; }
+        //	set { 
+        //		_LoginM.UserName = value;
+        //		RaisePropertyChanged("UserName");
+        //          }
+        //}
         #endregion
 
 
+
+        //在这里修改依赖属性,界面绑定的变量是赋值是从依赖属性中的get中的GetValue获得的,
+        //变量的改变是从set中的依赖属性中的set中的SetValue同步到界面的,和正常属性的get set的赋值操作是相反的
+        //
+
         public string UserName
         {
-			get { return _LoginM.UserName; }
-			set { 
-				_LoginM.UserName = value;
-				RaisePropertyChanged("UserName");
+            get {
+
+                _LoginM.UserName = (string)GetValue(UserNameProperty);
+                return _LoginM.UserName;
+
             }
-		}
+            set {
+                _LoginM.UserName = value;
+                SetValue(UserNameProperty, _LoginM.UserName);
+            }
+        }
+
+        // Using a DependencyProperty as the backing store for UserName.  This enables animation, styling, binding, etc...
+        public static readonly DependencyProperty UserNameProperty =
+            DependencyProperty.Register("UserName", typeof(string), typeof(LoginVM));
+
+
+
 
         public string Password
         {
-            get { return _LoginM.Password; }
+            get
+            {
+                _LoginM.Password = (string)GetValue(PasswordProperty);
+                return _LoginM.Password;
+            }
             set
             {
                 _LoginM.Password = value;
-                RaisePropertyChanged("Password");
+                SetValue(PasswordProperty, _LoginM.Password);
             }
         }
+
+        // Using a DependencyProperty as the backing store for Password.  This enables animation, styling, binding, etc...
+        public static readonly DependencyProperty PasswordProperty =
+            DependencyProperty.Register("Password", typeof(string), typeof(LoginVM));
+
+
+        #region 旧代码
+        //public string Password
+        //{
+        //    get { return _LoginM.Password; }
+        //    set
+        //    {
+        //        _LoginM.Password = value;
+        //        RaisePropertyChanged("Password");
+        //    }
+        //}
+        #endregion
+
+
 
 
         public void LoginFunc()
