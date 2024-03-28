@@ -211,6 +211,8 @@ LoginVM.cs中提供事件并实现接口调用，需要创建依赖文件RelayCo
 
 创建资源文件CustomButtonStyles.xaml
 
+注：ContentPresenter 保留原来文字属性
+
 ```xaml
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -264,6 +266,38 @@ LoginVM.cs中提供事件并实现接口调用，需要创建依赖文件RelayCo
 ```xaml
  <local:CustomButton ButtonCornerRadius="5" Content="登录" BackgroundHover="#0078d4" BackgroundPressed="Gray" Background="CadetBlue" Foreground="#ffffff" Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding LoginAction}" />
 ```
+
+## 自定义文本框特殊点
+
+CustomTextBoxStyles.xaml设置
+
+注：ScrollViewer  保留文本框属性，x:Name="PART_ContentHost" 为固定写法
+
+```xaml
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:bb="clr-namespace:WPF_Login">
+    <Style TargetType="{x:Type bb:CustomTextBox}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type bb:CustomTextBox}">
+                    <Border x:Name="textBoxBorder" CornerRadius="{TemplateBinding TextBoxCornerRadius}" BorderThickness="{TemplateBinding BorderThickness}"
+                            BorderBrush="{TemplateBinding BorderBrush}">
+                        <ScrollViewer x:Name="PART_ContentHost" />
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="textBoxBorder" Property="BorderBrush" Value="{Binding BorderBrushHover,RelativeSource={RelativeSource TemplatedParent}}"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
+```
+
+
 
 
 
