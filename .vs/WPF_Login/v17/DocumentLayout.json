@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "H:\\wpf\\WPF_Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\customtextboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\customtextboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\customtextboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -61,8 +61,7 @@
               "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
               "RelativeToolTip": "WPF_Login\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-28T03:41:47.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T03:41:47.868Z"
             },
             {
               "$type": "Document",
@@ -85,8 +84,7 @@
               "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButtonStyles.xaml",
               "RelativeToolTip": "WPF_Login\\CustomButtonStyles.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-03-28T03:27:14.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-28T03:27:14.843Z"
             },
             {
               "$type": "Document",

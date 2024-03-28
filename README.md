@@ -267,7 +267,7 @@ LoginVM.cs中提供事件并实现接口调用，需要创建依赖文件RelayCo
  <local:CustomButton ButtonCornerRadius="5" Content="登录" BackgroundHover="#0078d4" BackgroundPressed="Gray" Background="CadetBlue" Foreground="#ffffff" Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding LoginAction}" />
 ```
 
-## 自定义文本框特殊点
+## 四、自定义文本框特殊点
 
 CustomTextBoxStyles.xaml设置
 
