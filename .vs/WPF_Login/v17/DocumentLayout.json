@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\wpf\\WPF_Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|h:\\wpf\\wpf_login\\wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\custombuttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\custombutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|H:\\wpf\\WPF_Login\\wpf_login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E903203D-B78B-4134-9991-5A9131239B8B}|WPF_Login\\WPF_Login.csproj|solutionrelative:wpf_login\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomButton.cs",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButton.cs",
+              "RelativeDocumentMoniker": "WPF_Login\\CustomButton.cs",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButton.cs",
+              "RelativeToolTip": "WPF_Login\\CustomButton.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwCkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T13:40:45.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomButtonStyles.xaml",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButtonStyles.xaml",
+              "RelativeDocumentMoniker": "WPF_Login\\CustomButtonStyles.xaml",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\CustomButtonStyles.xaml",
+              "RelativeToolTip": "WPF_Login\\CustomButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:46:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\App.xaml",
+              "RelativeDocumentMoniker": "WPF_Login\\App.xaml",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\App.xaml",
+              "RelativeToolTip": "WPF_Login\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:52:36.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_Login\\MainWindow.xaml",
+              "ToolTip": "H:\\wpf\\WPF_Login\\WPF_Login\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_Login\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T13:39:32.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
