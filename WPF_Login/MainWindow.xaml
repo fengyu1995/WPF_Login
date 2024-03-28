@@ -31,10 +31,10 @@
             </Grid.ColumnDefinitions>
             
             <TextBlock  Text="用户名" VerticalAlignment="Center"/>
-            <TextBox Text="{Binding UserName}" Grid.Column="1"  Margin="2"/>
+            <local:CustomTextBox Text="{Binding UserName}" Grid.Column="1"  Margin="2" TextBoxCornerRadius="5" BorderBrushHover="#7EB4EA" VerticalAlignment="Center" Padding="5"/>
             
             <TextBlock Grid.Row="1" Text="密码" VerticalAlignment="Center"/>
-            <TextBox Text="{Binding Password}" Grid.Row="1" Grid.Column="1"  Margin="2"/>
+            <TextBox Text="{Binding Password}" Grid.Row="1" Grid.Column="1"  Margin="2" />
 
             <CheckBox Content="记住密码" Grid.Row="2" Grid.ColumnSpan="2" VerticalAlignment="Center"/>
             <local:CustomButton ButtonCornerRadius="5" Content="登录" BackgroundHover="#0078d4" BackgroundPressed="Gray" Background="CadetBlue" Foreground="#ffffff" Grid.Row="3" Grid.ColumnSpan="2" Command="{Binding LoginAction}" />
